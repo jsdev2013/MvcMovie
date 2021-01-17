@@ -161,9 +161,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Data\aspnet-MvcMovie-fefdc1f0-bd81-4ce9-b712-93a062e01031.mdf" />
-    <Content Include="App_Data\aspnet-MvcMovie-fefdc1f0-bd81-4ce9-b712-93a062e01031_log.ldf">
-      <DependentUpon>aspnet-MvcMovie-fefdc1f0-bd81-4ce9-b712-93a062e01031.mdf</DependentUpon>
+    <Content Include="App_Data\aspnet-MvcMovie.mdf" />
+    <Content Include="App_Data\aspnet-MvcMovie_log.ldf">
+      <DependentUpon>aspnet-MvcMovie.mdf</DependentUpon>
     </Content>
     <Content Include="App_Data\Movies.mdf" />
     <Content Include="App_Data\Movies_log.ldf">
